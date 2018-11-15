@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [BO.cs](./CS/BO.cs) (VB: [BO.vb](./VB/BO.vb))
+* [Tests.cs](./CS/Tests.cs) (VB: [Tests.vb](./VB/Tests.vb))
+<!-- default file list end -->
 # OBSOLETE - How to filter persistent objects against their type
 
 
